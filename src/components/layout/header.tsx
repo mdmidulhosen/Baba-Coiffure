@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Button } from '@/components/ui';
+import { Button } from '@/components/util';
 
 export function Header() {
   return (
